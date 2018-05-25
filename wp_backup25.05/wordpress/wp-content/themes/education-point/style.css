@@ -1,0 +1,27 @@
+/*
+Theme Name: Education Point
+Description: Education Point is a Simple, Clean, Beautifully Designed, Responsive, SEO Friendly and Fully Customizable WordPress theme for Educational Websites. it is best theme for School, Collage, Teaching, Learning, Training Center, Academy, University and various educational websites. Theme features: Custom Logo, Custom Menu, Sidebar Widgets, Three Menus, Slider Options, Image Widget, Page Builder, Mega Menu, Top Bar Section, Header Widget, Blog Options, One Click Demo Import, Social Profile Widget, Page with Left Sidebar, Page with Right Sidebar, Full Width Page and continue updates.
+Author: Alex Sander
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, footer-widgets, flexible-header, full-width-template, theme-options, threaded-comments, translation-ready, blog, education
+Text Domain: education-point
+Template: di-business
+*/
+
+
+.container-fluid.footercnav {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+ul.nav.navbar-nav.epfooter {
+	margin: 0 auto;
+}
+
+ul.nav.navbar-nav.epfooter li {
+	margin: 10px 15px;
+}
+
+
